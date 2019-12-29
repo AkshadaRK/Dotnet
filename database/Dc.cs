@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Configuration;
 using MySql.Data.MySqlClient;
+//this is dot net project
 
 namespace database
 {
