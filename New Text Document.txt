@@ -1,0 +1,7 @@
+create table emp1(empid int key,empname varchar(30),empcity varchar(20));
+insert emp1 values(1,"subhangi","pune");
+insert emp1 values(2,"modiksha","burhanpur");
+insert emp1 values(3,"aditya","jalgaon");
+insert emp1 values(4,"soham","pune");
+
+
